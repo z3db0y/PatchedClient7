@@ -1,0 +1,4 @@
+tmp/
+node_modules/
+app.asar
+app.patched.asar

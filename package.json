@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@electron/asar": "^3.2.10",
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12"
+  }
+}
